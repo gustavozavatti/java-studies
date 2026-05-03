@@ -38,5 +38,3 @@ The goal is to build a solid foundation through continuous practice, exercises, 
 ## 🤝 Contributions
 
 This is a personal study repository, but suggestions and ideas are always welcome.
-
---
